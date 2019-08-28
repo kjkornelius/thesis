@@ -5,7 +5,8 @@ The repository is not yet complete, I am adding the notebooks right now and it w
 The NIPS dataset can be found under this link: https://www.kaggle.com/benhamner/nips-papers (file too large to upload)
 
 The code used is mostly NLTK and Gensim package, and at points was taken from stack overflow: https://stackoverflow.com/questions/53748921/topic-modeling-gensim-python-getting-topic-models-according-to-fixed-ids-or-l
-
+and
+https://radimrehurek.com/gensim/about.html who offers the code free for personal use
 
 Word intrusion task survey links:
 
